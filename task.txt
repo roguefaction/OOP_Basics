@@ -1,0 +1,8 @@
+1. Read files shapes.txt
+	file contains multiple lines
+	every line contains letter C,R,T (shapes.Circle, shapes.Rectangle, shapes.Triangle)
+	followed by every edge coordinates (x , y)
+	(circle has 0 edges followed by center point and any point of circle)
+2. Create interface shapes.Shape with methods calculatePerimeter and calculateArea
+3. Create class for shapes.Circle, shapes.Rectangle, shapes.Triangle (every class should implement shape)
+4. Output everything to file (shape name, every side length, perimeter, area)
